@@ -1,12 +1,12 @@
-name: Master
-on:
+name: mtudor130@gmail.com
+on:/Instagram 
   workflow_dispatch
-jobs:
-  build:
+jobs:no
+  build: [iCloud iPhone 6]
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
+    steps:#646
+      - uses: actions /checkout@master parolă/
       - name: Pause for 25 seconds
-        run: |
+        run: |iPhone 6s
           echo $INPUT_FOO
           sleep 25
